@@ -103,8 +103,4 @@ npm start
 
 
 
-## Contact
 
-Yaswanth Thottempudi - [GitHub](https://github.com/YASWANTHthottempudi)
-
-Project Link: [https://github.com/YASWANTHthottempudi/eBookStore](https://github.com/YASWANTHthottempudi/eBookStore)
