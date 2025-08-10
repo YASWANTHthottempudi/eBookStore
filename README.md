@@ -101,30 +101,7 @@ npm start
   - Sorting options (name, price, rating)
 - Modal search interface with results preview
 
-### Modern Product Cards
-- Hover effects with overlay actions
-- Wishlist toggle functionality
-- Loading states and animations
-- Stock status indicators
-- Price comparison display
 
-### Responsive Design
-- Mobile-first approach
-- Flexible grid layouts
-- Touch-friendly interactions
-- Optimized for all screen sizes
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
